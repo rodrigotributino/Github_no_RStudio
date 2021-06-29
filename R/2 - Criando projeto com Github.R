@@ -13,7 +13,6 @@ usethis::use_git()
 # Passo 3: Inserindo arquivos ---------------------------------------------
 
 
-
 # Passo 4: Inserindo arquivos no repositório no Github (Nuvem) ------------
 usethis::use_github()
 
